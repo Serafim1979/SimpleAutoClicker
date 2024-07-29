@@ -1,3 +1,16 @@
+/*********************************************************************
+* Description: It is an application for automatic mouse clicking on 
+* Windows with a graphical interface implemented using WinAPI.
+* The user can enter the number of clicks, the interval between clicks, 
+* and the coordinates where clicks should occur. 
+* The application also displays the current mouse coordinates.
+*
+* Author: Ivan Korolkov
+* Date of creation: July 29, 2024
+*
+* License: MIT License
+*
+*********************************************************************/
 #include <windows.h>
 #include <windowsx.h>
 #include <string>
